@@ -1,7 +1,8 @@
 <HTML>
 
-<img class="Learning2Code75 Banner" src="/img/L2C75_logo_banner.png" width=450 height=240/>
+<img class="Learning2Code75 Banner" src="/img/L2C75_logo_banner.png" width=600 height=300/>
 
+<img class="Learning2Code75 Banner" src="/img/MyLearningJourneyTIllnow.png" width=600 height=300/>
 
 Hi,I am Neel Choksi <img class="introPic" src="/img/DSC_1242normal.JPG" width=25 height=32.5/> 4th Year B.Tech in Computer Science Engineering [VIT,Vellore](https://vit.ac.in/) Vellore campus 2019-2023(July 2023-expected).CGPA 8.78.Software Developer Intern [@TableZap](https://www.linkedin.com/company/tablezap/about/). I am highly passionate about web applications and technologies associated with them and am daily yearning to learn how to code them .
 <br/>

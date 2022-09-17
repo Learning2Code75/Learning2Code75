@@ -1,7 +1,9 @@
 <HTML>
-<img class="introPic" src="/img/DSC_1242normal.JPG" width=50 height=65/>
 
-Hi,I am Neel Choksi . 4th Year B.Tech in Computer Science Engineering [VIT,Vellore](https://vit.ac.in/) Vellore campus 2019-2023(July 2023-expected).CGPA 8.78.Software Developer Intern [@TableZap](https://www.linkedin.com/company/tablezap/about/). I am highly passionate about web applications and technologies associated with them and am daily yearning to learn how to code them .
+<img class="Learning2Code75 Banner" src="/img/L2C75_logo_banner.png" width=450 height=240/>
+
+
+Hi,I am Neel Choksi <img class="introPic" src="/img/DSC_1242normal.JPG" width=25 height=32.5/> 4th Year B.Tech in Computer Science Engineering [VIT,Vellore](https://vit.ac.in/) Vellore campus 2019-2023(July 2023-expected).CGPA 8.78.Software Developer Intern [@TableZap](https://www.linkedin.com/company/tablezap/about/). I am highly passionate about web applications and technologies associated with them and am daily yearning to learn how to code them .
 <br/>
 
 Checkout my resume at :
@@ -110,7 +112,8 @@ and documentation.<i>[React JS, Node JS, GraphQL, MongoDB]</i>
 
 I believe in Software Requirements , Design Specification, Use cases, task analysis and story boarding . You can check my YouTube [@Learning2Code75-YouTube](https://www.youtube.com/channel/UCekXweHVy0JQIiVNt_iWTSQ)
 
-<img src="/img/neelc.jpeg" width=50 height=70 />
+<img src="/img/fullPic.jpeg" width=100 height=140 />
+
 
 I am looking forward to learn new technologies and make myself equipped with skills that helps people grow their businesses.
 <hr/>

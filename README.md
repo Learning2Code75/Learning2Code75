@@ -21,11 +21,13 @@ Checkout my resume at :
 - React JS, Node JS, MongoDB, Sockets.io
 - A platform to test end to end encryption used in Chat Applications.
 - Simulated Man in the Middle Attack.
+- Docs : [Project Report](https://github.com/Learning2Code75/ISM_Project_Sem6_VIT/tree/main/Docs)
 
 #### Grook Analytics and Machine Learning [Have a look?<img height="35" width="35" src="/img/long-arrow-right.png" />](https://github.com/NeelChoksi/SEM6_TARP_VIT)
 - Python,Scikit Learn, Numpy, Pandas
 - Grook is an application to book sports grounds for a time slot.
 - Predicted sales and frequent timeslots for ground owner using Regression and Classification ML models.
+- Docs : [Project Report, Research Paper](https://drive.google.com/drive/folders/1zpS62wlHLf95VtLNarOjYHtZKFw_UytO?usp=sharing)
 
 #### Trie Vizualization  [Have a look?<img height="35" width="35" src="/img/long-arrow-right.png" />](https://github.com/Learning2Code75/ResumeProjects/tree/main/00_CSE2003_DataStructuresAndAlgorithms)
 - Data Structures and Algorithms
@@ -70,31 +72,29 @@ Checkout my resume at :
 
  <img src="/img/PPP.png" height="50" width="50" alt="PPP logo" /><strong> [Personal Portfolio Pitcher](https://github.com/Learning2Code75/GYB_vid1_PersonalPortfolioPitcherPage)</strong>
 
- A web application to build your own portfolio and manage data on the portfolio through an intuitive admin panel.<i>[React JS, Firebase]</i>
+- A web application to build your own portfolio and manage data on the portfolio through an intuitive admin panel.<i>[React JS, Firebase]</i>
 
+- [Pitch](https://docs.google.com/presentation/d/1lauCfCnwVTUII2NYFN0qRw919OCTctDgiPZPQxo9X2E/edit?usp=sharing)
 <br>
 
 
  <img src="/img/GYB.png" height="50" width="50" alt="GYB logo" /> <strong>[Grow Your Business](https://github.com/Learning2Code75/GYB_vid2_GrowYourBusiness)</strong>
+- A web application to build your own landing page using data on google sheet to manage your content on the landing page to improve your online presence.<i>[JavaScript,Apps Script, Google Sheets, Firebase]</i>
+- [Pitch](https://docs.google.com/presentation/d/1vcwNnkKJAwcikFZ_DouAVHc0ddr_n_Bq8pmRauctBzk/edit?usp=sharing)
 
- A web application to build your own landing page using data on google sheet to manage your content on the
-landing page to improve your online presence.<i>[JavaScript,Apps Script, Google Sheets, Firebase]</i>
+<br>
 
  <img src="/img/DLOM.svg" height="50" width="50" alt="DLOM logo" /><strong> [Distributor Level Operations Manager](https://github.com/Learning2Code75/DLOM)</strong>
 
- A web application to manage operations at distributor level using different authorized accounts , approval workflow
-and documentation.<i>[React JS, Node JS, GraphQL, MongoDB]</i>
+- A web application to manage operations at distributor level using different authorized accounts , approval workflow and documentation.<i>[React JS, Node JS, GraphQL, MongoDB]</i>
+- [Pitch](https://docs.google.com/presentation/d/1bgFAwlntxqoh8fcmJdHxHo0QSdl6NaX0lvu2LEYYLsI/edit?usp=sharing)
+
+<br>
 
  <img src="/img/YOB.png" height="50" width="50" alt="YOB logo" /> <strong>[Your Own Blog](https://github.com/Learning2Code75/GYB_vid4_YourOwnBlog)</strong>
 
- A web application to write your own blogs to share experiences.<i>[NextJS, Firebase]</i>
-
-
-
-
-
-
-
+- A web application to write your own blogs to share experiences.<i>[NextJS, Firebase]</i>
+- [Pitch](https://docs.google.com/presentation/d/1ZStst5XrL9AOp7JOcCpv2Zo1C9kfJO5yHZrJWpvZibU/edit?usp=sharing)
 
 <hr/>
 
